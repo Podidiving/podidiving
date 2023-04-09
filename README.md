@@ -29,6 +29,8 @@ MIPT alumni 🧑‍🔬
 <img align="left" alt="PyTorch" width="26px" src="https://2.bp.blogspot.com/-ofgG__VD7Zw/XCEs2OY92RI/AAAAAAAAAxU/9FT2qCmFlsEqGyr47117H086OnMu_xGCwCPcBGAYYCw/s1600/pytorch-logo.png" />
 <img align="left" alt="HuggingFace" width="26px" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" />
 <img align="left" alt="Lightning" width="26px" src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" />
+<img align="left" alt="Tensorflow" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />
+<img align="left" alt="Jax" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7nIlQLt9IuoFyec0QZgXbE2qcvS4pqp4VQ&usqp=CAU" />
 <img align="left" alt="XGBoost" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" />
 <img align="left" alt="Catboost" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" />
 <img align="left" alt="Sklearn" width="26px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" />
