@@ -4,13 +4,15 @@
 
 Senior Machine Learning Engineer @ Tinkoff
 
+MIPT alumni 🧑‍🔬
+
 Interested in all Deep Learning related stuff, especially Computer Vision. 😎
 
 I like to teach people machine learning because it's awesome. Reach out to me if you'd like to get a great lecture about backpropagation 🤩
 
 Sometimes play guitar 🎸
 
-MIPT alumni 🧑‍🔬
+Have over 3 years of ongoing hot streak on Duolingo 🦜
 
 ---
 
