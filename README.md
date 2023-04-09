@@ -16,8 +16,7 @@ MIPT alumni 🧑‍🔬
 
 ### Programming Languages  
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Golang" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" />
-<img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" />  
+<img align="left" alt="Golang" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" />  
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="JS" width="26px" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" />
 
@@ -42,7 +41,7 @@ MIPT alumni 🧑‍🔬
 ### Other Tools
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="k8s" width="26px" src="https://i0.wp.com/www.upnxtblog.com/wp-content/uploads/2017/11/kubernetes.jpg?fit=722%2C612&ssl=1" />
-
+<img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" />
 <img align="left" alt="FastApi" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="left" alt="React" width="26px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
 
