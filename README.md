@@ -4,7 +4,7 @@
 
 Senior Machine Learning Engineer @ Tinkoff
 
-Intrested in all Deep Learning related stuff and especially Computer Vision 😎
+Interested in all Deep Learning related stuff and especially Computer Vision 😎
 
 I like to teach people machine learning because it's awesome. Reach me out if you'd like to get a great lecture about backpropagation 🤩
 
