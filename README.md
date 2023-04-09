@@ -44,6 +44,8 @@ MIPT alumni 🧑‍🔬
 <img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" />
 <img align="left" alt="FastApi" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="left" alt="React" width="26px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
+<img align="left" alt="HTML&CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
+
 
 <br />
 
