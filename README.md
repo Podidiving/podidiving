@@ -2,7 +2,7 @@
 
 ---
 
-Senior Machine Learning Engineer @ Tinkoff
+Senior Machine Learning Engineer @ [Bending Spoons](https://bendingspoons.com)
 
 MIPT alumni 🧑‍🔬
 
