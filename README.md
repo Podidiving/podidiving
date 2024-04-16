@@ -12,7 +12,7 @@ I like to teach people machine learning because it's awesome. Reach out to me if
 
 Sometimes play guitar 🎸
 
-Have over 3 years of ongoing hot streak on Duolingo 🦜
+Have over 4 years of ongoing hot streak on Duolingo 🦜
 
 ---
 
