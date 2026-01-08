@@ -2,7 +2,7 @@
 
 ---
 
-AI Research Engineer @ [Bending Spoons](https://bendingspoons.com)
+AI Research Engineer @ [T](https://ai.tbank.ru/)
 
 MIPT alumni 🧑‍🔬
 
@@ -12,7 +12,7 @@ I like to teach people machine learning because it's awesome. Reach out to me if
 
 Sometimes play guitar 🎸
 
-Have over 4 years of ongoing hot streak on Duolingo 🦜
+Have over 5 years of ongoing hot streak on Duolingo 🦜
 
 ---
 
